@@ -39,7 +39,7 @@ You can download it and launch the game without building it from source.
 ### Option 2 – Run from source
 
 1. Clone the repository.
-2. Open the project in Unity (version XX.X.X).
+2. Open the project in Unity (version 2021.3.16f1).
 3. Build or run the project directly from the Unity editor.
 4. Play using a keyboard in single- or two-player mode.
 
