@@ -7,7 +7,7 @@ The game was created using the **Unity** engine, programmed in **C#**, and devel
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Unity  
 - C#  
